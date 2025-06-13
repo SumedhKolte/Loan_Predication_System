@@ -1,0 +1,6 @@
+setup.py
+loan_prediction.egg-info/PKG-INFO
+loan_prediction.egg-info/SOURCES.txt
+loan_prediction.egg-info/dependency_links.txt
+loan_prediction.egg-info/requires.txt
+loan_prediction.egg-info/top_level.txt

@@ -1,4 +1,4 @@
-# 🏦 Loan Prediction System
+# 🏦 Loan Prediction System([https://loanpredicationsystem.streamlit.app/])
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-🚀%20Try%20Now-brightgreen)]([your-live-demo-url](https://loanpredicationsystem.streamlit.app/))
 [![Python](https://img.shields.io/badge/Python-3.11-blue.svg)](https://python.org)

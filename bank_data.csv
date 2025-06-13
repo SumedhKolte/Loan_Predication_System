@@ -1,0 +1,29 @@
+id,name_of_lender,personal_loan_rate,home_loan_rate,business_loan_rate
+1,HDFC Bank,10.85,8.75,22.50
+2,Axis Bank,11.25,13.30,17.15
+3,ICICI Bank,16.65,8.75,17
+4,Kotak Mahindra Bank,16.99,8.75,16
+5,IndusInd Bank,10.49,-,-
+6,IDFC FIRST Bank,10.99,8.85,-
+7,Federal Bank,19.50,8.80,-
+8,YES Bank,21,-,-
+9,SBI,14.85,9.40,-
+10,Punjab National Bank,17.95,10.00,-
+11,Union Bank of India,15.20,10.65,-
+12,Bank of India,16.20,10.85,-
+13,Bank of Baroda,18.50,10.65,-
+14,Indian Bank,15.25,9.55,-
+15,Bank of Maharashtra,12.80,11.15,-
+16,Central Bank of India,12.75,9.60,-
+17,Punjab & Sind Bank,13.85,9.75,-
+18,Indian Overseas Bank,14.15,10.75,-
+19,Canara Bank,16.15,11.00,-
+20,IDBI Bank,15.50,8.50,-
+21,Bandhan Bank,9.47,15.00,-
+22,South Indian Bank,12.85,8.50,-
+23,HSBC India,16.00,8.50,-
+24,Karnataka Bank,-,10.91,-
+25,Karur Vysya Bank,-,11.05,-
+26,Dhanlaxmi Bank,-,8.75,-
+27,Tamilnad Mercantile Bank,-,9.95,-
+28,UCO Bank,-,8.30,-
